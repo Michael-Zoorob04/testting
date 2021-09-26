@@ -1,5 +1,11 @@
 
 Odd or Even
+
+
+
+
+
+
 #include <iostream>
 
 using namespace std;
@@ -19,9 +25,16 @@ int main()
     return 0;
 }
   
+	
+	
+	
   
   Number checker
   
+	
+	
+	
+	
   
 #include <iostream>
   
@@ -48,9 +61,18 @@ int main()
     return 0;
 }
                       
+		      
+		      
+		      
                       
   Profit or Loss
                       
+		      
+		      
+		      
+		      
+		      
+		      
 # include <iostream>
 
 using namespace std;
@@ -77,12 +99,15 @@ int main()
 		cout << "No buy, No loss.";
 	}
 }
+	
+	
   
   
   Name that shape
   
   
   
+	
 #include <iostream>
 
 using namespace std;
